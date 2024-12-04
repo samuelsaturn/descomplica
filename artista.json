@@ -1,0 +1,14 @@
+{
+    "Cantor(a)": [{
+        "id": 1,
+        "Nome": "Billie Eilish",
+        "Idade": 22,
+        "Descrição": "Cantora pop"
+    },
+    {
+        "id": 2,
+        "Nome": "The Weeknd",
+        "Idade": 34,
+        "Descrição": "Cantor pop"
+    }]
+}
